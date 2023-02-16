@@ -1,3 +1,5 @@
+Project for RISC-V Architecture course at PES University
+
 The following algorithms have been implemented in RISC-V assembly language - 
 1. Bubble Sort
 2. Selection Sort
